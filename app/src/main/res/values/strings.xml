@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThirdPartyLogin</string>
+
+    <string name="facebook_app_id">2050267735214022</string>
+    <string name="fb_login_protocol_scheme">fb2050267735214022</string>
+
+</resources>

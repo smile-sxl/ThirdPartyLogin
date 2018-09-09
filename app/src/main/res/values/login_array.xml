@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="login_name">
+        <item>QQ Login</item>
+        <item>Wechat Login</item>
+        <item>Facebook Login</item>
+        <item>Twitter Login</item>
+    </string-array>
+</resources>
